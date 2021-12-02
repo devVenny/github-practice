@@ -5,3 +5,7 @@ i really want to learn how to use github.
 ### Visitor
 
 - [x] Venny
+
+### Logo design
+
+- Blah blah
